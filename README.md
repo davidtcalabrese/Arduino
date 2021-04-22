@@ -52,7 +52,7 @@ Detailed instructions for installation in popular operating systems can be found
 
 This repository contains just the code for the Arduino IDE itself.
 Originally, it also contained the AVR and SAM Arduino core and libraries
-(i.e.  the code that is compiled as part of a sketch and runs on the
+(i.e.,  the code that is compiled as part of a sketch and runs on the
 actual Arduino device), but those have been moved into their own
 repositories.  They are still automatically downloaded as part of the
 build process and included in built releases, though.
